@@ -1,1 +1,3 @@
-# ma1124de.github.io
+# Intro 
+# Projects
+## Bioinformatics and Sequence Analysis BINP17
