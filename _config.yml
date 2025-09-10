@@ -1,3 +1,7 @@
 remote_theme: pages-themes/midnight@v0.2.0
 title: Rissa's Code Projects
 description: My stuff for BINP17
+
+layout: page
+title: HTML Markdown Help
+permalink: /MarkdownHelp
