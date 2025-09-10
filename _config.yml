@@ -1,2 +1,3 @@
-name: Rissa's Code Projects
-remote_theme: pages-themes/midnight@v0.2.0
+theme: jekyll-theme-minimal
+title: Rissa's Code Projects
+description: My stuff for BINP17
