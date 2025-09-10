@@ -4,7 +4,7 @@ Hello! My name is Rissa and I'm a student working on a Masters in Bioinformatics
 
 ## Bioinformatics and Sequence Analysis BINP17
 
-## <a href=(https://ma1124de.github.io/useful-notes/)>Useful Notes</a>
+## <a href="https://ma1124de.github.io/useful-notes/">Useful Notes</a>
 
 
 # About Me
